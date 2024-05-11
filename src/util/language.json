@@ -1,0 +1,20 @@
+{
+    "en":{
+        "welcomeMessage":"WelCome!",
+        "normalMessage":"Motivation is what gets you started, habit is what keeps you going.so keep Coding.",
+        "greetingMessage":"have a Good day!!",
+        "userStatMessage":"<studentCount> users are learning in this session"
+    },
+    "mr":{
+        "welcomeMessage":"स्वागत आहे !!",
+        "normalMessage":"प्रेरणा हीच तुम्हाला सुरुवात करून देते, सवय ही तुम्हाला पुढे चालू ठेवते. त्यामुळे कोडिंग करत रहा.",
+        "greetingMessage":"आपला दिवस चांगला जावो!!",
+        "userStatMessage":" या सत्रात <studentCount> वापरकर्ते शिकत आहेत"
+    },
+    "hn":{
+        "welcomeMessage":"स्वागत है!!",
+        "normalMessage":"प्रेरणा वह है जो आपको आरंभ कराती है, आदत वह है जो आपको आगे बढ़ाती है। इसलिए कोडिंग करते रहें।",
+        "greetingMessage":"आपका दिन अच्छा हो!!",
+        "userStatMessage":"<studentCount> उपयोगकर्ता इस सत्र में सीख रहे हैं"
+    }
+}
